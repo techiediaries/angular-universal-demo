@@ -1,5 +1,5 @@
 # AngularUniversalDemo
-This demo app is accompanying this tutorial at techiediaries <a href="https://www.techiediaries.com/angular-4-universal-server-side-rendering">Angular 4 Universal apps and server side rendering</a> 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
